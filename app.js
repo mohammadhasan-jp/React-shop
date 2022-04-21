@@ -43,3 +43,8 @@ let name = prompt('enter name')
 if (name === 2) {
     alert('accepted')
 }
+
+let name = prompt('enter name')
+if (name === 2) {
+    alert('accepted')
+}
